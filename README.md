@@ -20,8 +20,8 @@ Esta aplicación Java permite buscar y explorar libros utilizando la API públic
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/buscador-libros-gutendex.git
-cd buscador-libros-gutendex
+git clone https://github.com/AxelDesarrolloWeb/search-ebooks-api-gutendex.git
+cd search-ebooks-api-gutendex
 ```
 
 2. Compila y ejecuta la aplicación:
